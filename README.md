@@ -1,4 +1,4 @@
-<h2>Hi, I'm Lucas Gancia!</h2>
+<h1>Hi, I'm Lucas Gancia!</h1>
 
 <p>
   <em>
