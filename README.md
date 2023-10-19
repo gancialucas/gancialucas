@@ -1,4 +1,4 @@
-<h2> Hi, I'm Lucas Gancia! <img src="https://media2.giphy.com/media/10mXRBHPy1QtixVahx/giphy.gif?cid=ecf05e47zlx2zxjaqcpuusiifawolnb85hrq9bcimi6kyjd9&ep=v1_stickers_search&rid=giphy.gif&ct=ts" width="50"></h2>
+<h2> Hi, I'm Lucas Gancia! <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
