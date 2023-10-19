@@ -5,8 +5,7 @@
   
   <p>
     <em>
-      Degree in computer science at <a href="https://21.edu.ar/oferta-academica/licenciatura-en-informatica">
-      UES21</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+      Degree in computer science at <a href="https://21.edu.ar/oferta-academica/licenciatura-en-informatica">UES21 </a><img src="https://media.giphy.com/media/r1kWjDT4qfR07zAkxj/giphy.gif" width="30"></br>
       Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a>
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     </em>
