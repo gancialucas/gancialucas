@@ -22,6 +22,6 @@
 ?>
 ```
 
-⭐️ Thanks for stopping by my feed, I love coding and sharing my progress with you :) <img src="https://media.giphy.com/media/lodecc4WhreCyq1HKt/giphy.gif" width="50">
+> ⭐️ Thanks for stopping by my feed, I love coding and sharing my progress with you :) <img src="https://media.giphy.com/media/lodecc4WhreCyq1HKt/giphy.gif" width="50">
 
 ---
