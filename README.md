@@ -10,17 +10,18 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-``` javascript
-const gancialucas = {
-  pronouns: "he" | "him",
-  code: [PHP, Java, HTML, CSS, Python],
-  tools: [Laravel, Bootstrap, Tailwind, Spring, GitHub],
-  architecture: ["MVC", "design system pattern"],
-}
+``` php
+<?php
+  $gancialucas = array
+      (
+        "pronouns" => "he | him",
+        "code" => array("PHP", "Java", "HTML", "CSS", "Python"),
+        "tools" => array("Laravel", "Bootstrap", "Tailwind", "Spring", "GitHub"),
+        "architecture" => array("MVC", "design system pattern")
+      );
+?>
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+⭐️ Thanks for stopping by my feed, I love coding and sharing my progress with you :) <img src="https://media.giphy.com/media/lodecc4WhreCyq1HKt/giphy.gif" width="50">
 
 ---
-
-⭐️ From [@Thaiane](https://github.com/Thaiane)
