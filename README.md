@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Lucas Gancia!</h1>
 
-<p align="center"><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="30"></p>
+<p align="center"><img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230"></p>
 
 <em>
   - Degree in computer science at <a href="https://21.edu.ar/oferta-academica/licenciatura-en-informatica">UES21 </a><img src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30"></br>
