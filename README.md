@@ -1,12 +1,12 @@
 <h2>Hi, I'm Lucas Gancia!</h2>
 
-<p>
+<h5>
   <em>
   <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
   - Degree in computer science at <a href="https://21.edu.ar/oferta-academica/licenciatura-en-informatica">UES21 </a><img src="https://media.giphy.com/media/r1kWjDT4qfR07zAkxj/giphy.gif" width="30"></br>
   - Freelancer Developer <img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="30"><br>  
   </em>
-</p>
+</5>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
