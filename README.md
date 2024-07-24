@@ -10,16 +10,14 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-``` php
-<?php
-  $gancialucas = array
-      (
-        "pronouns" => "he | him",
-        "code" => array("PHP", "Java", "HTML", "CSS", "Python"),
-        "tools" => array("Laravel", "Bootstrap", "Tailwind", "Spring", "GitHub"),
-        "architecture" => array("MVC", "design system pattern")
-      );
-?>
+``` javascript
+const gancialucas = {
+        Name: Lucas Gancia,
+        Age: 23,
+        code: ["PHP", "Java", "HTML", "CSS", "Python", JavaScript],
+        tools: ["Laravel", "Bootstrap", "Tailwind", "Spring", "GitHub"],
+        architecture: ["MVC", "design system pattern"]
+}
 ```
 
 ⭐️ Thanks for stopping by my feed, I love coding and sharing my progress with you :) <img src="https://media.giphy.com/media/lodecc4WhreCyq1HKt/giphy.gif" width="50">
