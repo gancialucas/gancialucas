@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lucas Gancia!</h1>
+<h1>Hi, I'm Lucas Gancia! Welcome to my profile</h1>
 
 <p>
   <em>
@@ -11,12 +11,12 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ``` javascript
-const gancialucas = {
-        Name: Lucas Gancia,
-        Age: 23,
-        code: ["PHP", "Java", "HTML", "CSS", "Python", JavaScript],
-        tools: ["Laravel", "Bootstrap", "Tailwind", "Spring", "GitHub"],
-        architecture: ["MVC", "design system pattern"]
+const user = {
+  Name: Lucas Gancia,
+  Age: 23,
+  code: ["PHP", "Java", "HTML", "CSS", "Python", JavaScript],
+  tools: ["Laravel", "Bootstrap", "Tailwind", "Spring", "GitHub"],
+  architecture: ["MVC", "design system pattern"]
 }
 ```
 
