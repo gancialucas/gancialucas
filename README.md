@@ -12,8 +12,8 @@
 
 ``` javascript
 const user = {
-  Name: "Lucas Gancia",
-  Age: 23,
+  name: "Lucas Gancia",
+  age: 23,
   code: ["PHP", "Java", "HTML", "CSS", "Python", JavaScript],
   frameworks: ["Laravel", "Bootstrap", "Tailwind", "Spring"],
   librariesJs: ["jQuery"],
