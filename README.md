@@ -12,10 +12,12 @@
 
 ``` javascript
 const user = {
-  Name: Lucas Gancia,
+  Name: "Lucas Gancia",
   Age: 23,
   code: ["PHP", "Java", "HTML", "CSS", "Python", JavaScript],
-  tools: ["Laravel", "Bootstrap", "Tailwind", "Spring", "GitHub"],
+  frameworks: ["Laravel", "Bootstrap", "Tailwind", "Spring"],
+  librariesJs: ["jQuery"],
+  knowledge: ["GitHub", "SQL"],
   architecture: ["MVC", "design system pattern"]
 }
 ```
