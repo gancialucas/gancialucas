@@ -2,13 +2,13 @@
 
 <p>
   <em>
-    <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="270">
+    <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" height="270px">
     - Degree in computer science at <a href="https://21.edu.ar/oferta-academica/licenciatura-en-informatica">UES21 </a><img src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30"></br>
     - Freelancer Developer <img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="30">
   </em>
 </p>
 
-### <img src="https://acortar.link/sgTAtE" height="45px" align="center">A little more about me...
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZmZWdnNDZwMGt5MWk2YWg2eTltY2Vsc2owdTdmZHdudmk0dWZydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i99VfFMRAbd1Psrteb/giphy.webp" height="45px" align="bottom">A little more about me...
 
 ``` javascript
 const user = {
